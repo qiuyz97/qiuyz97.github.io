@@ -9,7 +9,7 @@
 title                    : "QIU Yuze (邱宇泽)"
 description              : "Joint Ph.D. student in USTC and CityU. Focusing on tactile sensors, flexible electronics, and soft robotics."
 repository               : "qiuyz97/qiuyz97e.github.io"
-google_scholar_stats_use_cdn : false #true
+google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
