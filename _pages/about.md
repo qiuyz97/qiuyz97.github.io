@@ -19,7 +19,7 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published 6 papers at the SCI journals with total <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'>google scholar citations <strong><span id='total_cit'>12</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Vision-based Tactile Sensor, Flexible Electronics, and Soft Robotics. I have published 6 papers at the SCI journals with total <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'>google scholar citations <strong><span id='total_cit'>12</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -27,12 +27,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 - As First/Co-first Author
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2024</div><img src='images/NSR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/NSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
   [A tactile perception method with flexible grating structural color](https://academic.oup.com/nsr/article/12/1/nwae413/7901371)
 
-**Yuze Qiu**,  Chunfei Yan, Yan Zhang, Shengxuan Yang, Xiang Yao, Fawen Ai, Jinjin Zheng, Shiwu Zhang, Xinge Yu, and Erbao Dong
+**Yuze Qiu**,  Chunfei Yan, Yan Zhang, Shengxuan Yang, Xiang Yao, Fawen Ai, Jinjin Zheng, Shiwu Zhang, Xinge Yu, and Erbao Dong, **National Science Review 2024**
 
   - Proposed a novel tactile perception method and corresponding sensor combining structural colors from flexible blazed gratings with deep learning.
   - The designed vision-based tactile sensor has a highly comprehensive performance on force localization and identification and has a good response to the dynamic contacts on its working surface.
