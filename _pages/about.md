@@ -44,18 +44,30 @@ My research interests include Vision-based Tactile Sensor, Flexible Electronics,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MTA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-  [A tactile perception method with flexible grating structural color](https://academic.oup.com/nsr/article/12/1/nwae413/7901371)
+  [Adaptive uneven illumination correction method for autonomous live-line maintenance robot](https://link.springer.com/article/10.1007/s11042-022-14249-1),
 
-**Yuze Qiu**,  Chunfei Yan, Yan Zhang, Shengxuan Yang, Xiang Yao, Fawen Ai, Jinjin Zheng, Shiwu Zhang, Xinge Yu, and Erbao Dong, **National Science Review 2024**
+**Yuze Qiu**, Yutao Chen, Yuxiang Zheng, Yahao Wang, Kai Wu, Shaolei Wu, Rui Guo, Yuliang Zhao, and Erbao Dong, **Multimed. Tools. Appl. 2023**
 
-  - Proposed a novel tactile perception method and corresponding sensor combining structural colors from flexible blazed gratings with deep learning.
-  - The designed vision-based tactile sensor has a highly comprehensive performance on force localization and identification and has a good response to the dynamic contacts on its working surface.
-  - The proposed tactile perception method can be easily extended to multiple sensing fields, aiming at various robot body parts with different shapes and needs.
+  - Collected a Hot-Line dataset containing fieldwork photos of the autonomous live-line maintenance robots.
+  - Proposed an image enhancement method for uneven illumination images based on image brightness segmentation and multi-methods fusion.
+  - The proposed method provided good results on both our Hot-Line dataset and other image datasets, and has been verified on an ALMR for the power distribution network and archived good results.
 
 </div>
 </div>
-  - [Adaptive uneven illumination correction method for autonomous live-line maintenance robot](https://link.springer.com/article/10.1007/s11042-022-14249-1),**Yuze Qiu**, Yutao Chen, Yuxiang Zheng, Yahao Wang, Kai Wu, Shaolei Wu, Rui Guo, Yuliang Zhao, and Erbao Dong, **Multimed. Tools. Appl. 2023**
-  - [Wearable Sensors for Motion and Electrophysiological Signal Tracking in XR](https://link.springer.com/article/10.1007/s11814-024-00227-w),**Yuze Qiu**, Xinxin He, Zhiyuan Li, Zhengchun Peng, Ya Huang, and Xinge Yu, **Korean J. Chem. Eng. 2024**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/KJCE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+  [Wearable Sensors for Motion and Electrophysiological Signal Tracking in XR](https://link.springer.com/article/10.1007/s11814-024-00227-w)
+
+**Yuze Qiu**, Xinxin He, Zhiyuan Li, Zhengchun Peng, Ya Huang, and Xinge Yu, **Korean J. Chem. Eng. 2024**
+
+  - Discussed the significance of motion recognition and related electrophysiological signal monitoring for XR systems and highlights the benefits of flexible wearable sensors.
+  - Showcased the latest progress in these sensors and their prospective utility in capturing user movement and transmitting electrophysiological signals in XR, thereby enabling personalized experiences
+  - Examined the current limitations, the primary challenges, and the prospective future developments of these novel flexible wearable sensors.
+
+</div>
+</div>
 
 - As Co-author
   - [Multi-functional adhesive hydrogel as bio-interface for wireless transient pacemaker](https://www.sciencedirect.com/science/article/pii/S095656632400602X), Qiang Zhang, Guangyao Zhao, Zhiyuan Li, Fang Guo, Ya Huang, Guihuan Guo, Jiachen Wang, Jingkun Zhou, Lung Chow, Xingcan Huang, Xinxin He, Yuyu Gao, Zhan Gao, Kuanming Yao, **Yuze Qiu**, Zirui Zhao, Binbin Zhang, Yawen Yang, Yingjian Liu, Yue Hu, Mengge Wu, Jian Li, Pengcheng Wu, Guoqiang Xu, Pinyuan He, Zhihui Yang, Xinge Yu, **Biosensors and Bioelectronics 2024**
