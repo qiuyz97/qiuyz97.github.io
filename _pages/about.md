@@ -23,7 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 New paper on National Science Review ! 
+- *2024.11*: &nbsp;🎉🎉 New paper on National Science Review! A breakthrough in Vision-based tactile sensors! 
 
 # 📝 Publications 
 - First/Co-first Author
