@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSR 2024</div><img src='images/NSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [A tactile perception method with flexible grating structural color](https://academic.oup.com/nsr/article/12/1/nwae413/7901371)
+  [A tactile perception method with flexible grating structural color](https://academic.oup.com/nsr/article/12/1/nwae413/7901371)
 
 **Yuze Qiu**,  Chunfei Yan, Yan Zhang, Shengxuan Yang, Xiang Yao, Fawen Ai, Jinjin Zheng, Shiwu Zhang, Xinge Yu, and Erbao Dong
 
