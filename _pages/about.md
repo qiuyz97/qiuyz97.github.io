@@ -19,8 +19,19 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interests include Vision-based Tactile Sensor, Flexible Electronics, and Soft Robotics. I have published 7 papers at the SCI journals with total <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'>google scholar citations <strong><span id='total_cit'>12</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Vision-based Tactile Sensor, Flexible Electronics, and Soft Robotics. I have published 7 papers at the SCI journals with total <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'>google scholar citations <strong><span id='total_cit'>12</span></strong></a>.
 
+# 🔥 Present researches
+- Passive Young's Modulus Measurement (January 2024 to Present)
+  - Developed a compact piezoelectric airbag structure that converts Young's modulus of the test object into distinct and highly distinguishable electrical outputs from piezoelectric ceramics.
+  - Designed a display based on electrochromism that visualizes Young's modulus of the test object without the need for external energy input.
+- Wearable Passive Pulse Rate Visualization Based on Structural Color (December 2023 to Present)
+  - Designed a wearable flexible grating wristband sensitive to minute vibrations using structural color principles. This allows for the visualization of the wearer's heart rate and relative pulse strength based on changes in the structural color on the wristband's surface.
+  - Developed a mobile application that enables users to capture changes in structural color on the wristband via a smartphone, providing them with rapid access to cardiovascular indicators such as pulse rate and blood pressure predictions.
+- Compact High-Performance Visuo-Tactile Sensor with Unique Structural Color Array Patterns (December 2024 to Present)
+  - Introduced a new sensor illumination method (multi-point annular lighting) to achieve unique structural color array patterns with high visual indicativeness, along with a more compact sensor design (30 × 30 × 30 mm³).
+  - Utilized a global feature perception network with a self-attention module to more effectively capture and model high-dimensional tactile information from complex tactile images (structural color array patterns).
+  - The proposed miniaturized sensor demonstrated good static tactile estimation performance (single-point contact force localization and identification) and is highly suitable for manipulating objects within mechanical grippers.
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 New paper on National Science Review: a breakthrough in Vision-based tactile sensors! 
