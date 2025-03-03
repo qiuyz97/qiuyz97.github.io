@@ -41,20 +41,6 @@ My research interests include Vision-based Tactile Sensor, Flexible Electronics,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MTA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-  [Adaptive uneven illumination correction method for autonomous live-line maintenance robot](https://link.springer.com/article/10.1007/s11042-022-14249-1),
-
-**Yuze Qiu**, Yutao Chen, Yuxiang Zheng, Yahao Wang, Kai Wu, Shaolei Wu, Rui Guo, Yuliang Zhao, and Erbao Dong, **Multimed. Tools. Appl. 2023**
-
-  - Collected a Hot-Line dataset containing fieldwork photos of the autonomous live-line maintenance robots.
-  - Proposed an image enhancement method for uneven illumination images based on image brightness segmentation and multi-methods fusion.
-  - The proposed method provided good results on both our Hot-Line dataset and other image datasets, and has been verified on an ALMR for the power distribution network and archived good results.
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/KJCE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,6 +51,20 @@ My research interests include Vision-based Tactile Sensor, Flexible Electronics,
   - Discussed the significance of motion recognition and related electrophysiological signal monitoring for XR systems and highlights the benefits of flexible wearable sensors.
   - Showcased the latest progress in these sensors and their prospective utility in capturing user movement and transmitting electrophysiological signals in XR, thereby enabling personalized experiences
   - Examined the current limitations, the primary challenges, and the prospective future developments of these novel flexible wearable sensors.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/MTA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+  [Adaptive uneven illumination correction method for autonomous live-line maintenance robot](https://link.springer.com/article/10.1007/s11042-022-14249-1),
+
+**Yuze Qiu**, Yutao Chen, Yuxiang Zheng, Yahao Wang, Kai Wu, Shaolei Wu, Rui Guo, Yuliang Zhao, and Erbao Dong, **Multimed. Tools. Appl. 2023**
+
+  - Collected a Hot-Line dataset containing fieldwork photos of the autonomous live-line maintenance robots.
+  - Proposed an image enhancement method for uneven illumination images based on image brightness segmentation and multi-methods fusion.
+  - The proposed method provided good results on both our Hot-Line dataset and other image datasets, and has been verified on an ALMR for the power distribution network and archived good results.
 
 </div>
 </div>
