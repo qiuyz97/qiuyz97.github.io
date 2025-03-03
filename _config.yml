@@ -11,7 +11,7 @@ title                    : "QIU Yuze (邱宇泽)"
 title_seperator          : "-"
 name                     : &name "QIU Yuze"
 description              : "Joint Ph.D. student in USTC and CityU. Focusing on tactile sensors, flexible electronics, and soft robotics."
-url                      :https://qiuyz97.github.io
+url                      : https://qiuyz97.github.io
 repository               : "qiuyz97/qiuyz97e.github.io"
 google_scholar_stats_use_cdn : true
 
