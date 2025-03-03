@@ -19,14 +19,14 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes neural machine translation and computer vision. I have published 6 papers at the SCI journals with total <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'>google scholar citations <strong><span id='total_cit'>12</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 New paper on National Science Review ! 
 
 # 📝 Publications 
-
+- First/Co-first Author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">National Science Review</div><img src='images/NSR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -34,14 +34,21 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Yuze Qiu**,  Chunfei Yan, Yan Zhang, Shengxuan Yang, Xiang Yao, Fawen Ai, Jinjin Zheng, Shiwu Zhang, Xinge Yu*, Erbao Dong*
 
-- •	Proposed a novel tactile perception method and corresponding sensor combining structural colors from flexible blazed gratings with deep learning.
-•	 The designed vision-based tactile sensor has a highly comprehensive performance on force localization and identification and has a good response to the dynamic contacts on its working surface.
-•	The proposed tactile perception method can be easily extended to multiple sensing fields, aiming at various robot body parts with different shapes and needs.
+- Proposed a novel tactile perception method and corresponding sensor combining structural colors from flexible blazed gratings with deep learning.
+- The designed vision-based tactile sensor has a highly comprehensive performance on force localization and identification and has a good response to the dynamic contacts on its working surface.
+- The proposed tactile perception method can be easily extended to multiple sensing fields, aiming at various robot body parts with different shapes and needs.
 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Adaptive uneven illumination correction method for autonomous live-line maintenance robot](https://link.springer.com/article/10.1007/s11042-022-14249-1),**Yuze Qiu**, Yutao Chen, Yuxiang Zheng, Yahao Wang, Kai Wu, Shaolei Wu, Rui Guo, Yuliang Zhao & Erbao Dong*, **Multimed. Tools. Appl. 2023**
+- [Wearable Sensors for Motion and Electrophysiological Signal Tracking in XR](https://link.springer.com/article/10.1007/s11814-024-00227-w),**Yuze Qiu**, Xinxin He, Zhiyuan Li, Zhengchun Peng, Ya Huang & Xinge Yu, **Korean J. Chem. Eng. 2024**
+
+-Co-author
+- [Multi-functional adhesive hydrogel as bio-interface for wireless transient pacemaker](https://www.sciencedirect.com/science/article/pii/S095656632400602X), Qiang Zhang, Guangyao Zhao, Zhiyuan Li, Fang Guo, Ya Huang, Guihuan Guo, Jiachen Wang, Jingkun Zhou, Lung Chow, Xingcan Huang, Xinxin He, Yuyu Gao, Zhan Gao, Kuanming Yao, **Yuze Qiu**, Zirui Zhao, Binbin Zhang, Yawen Yang, Yingjian Liu, Yue Hu, Mengge Wu, Jian Li, Pengcheng Wu, Guoqiang Xu, Pinyuan He, Zhihui Yang, Xinge Yu, **Biosensors and Bioelectronics 2024**
+- [A fully integrated breathable haptic textile](https://www.science.org/doi/full/10.1126/sciadv.adq9575), Kuanming Yao, Qiuna Zhuang, Qiang Zhang, Jingkun Zhou, Chun Ki Yiu, Jianpeng Zhang, Denglin Ye, Yawen Yang, Ki Wan Wong, Lung Chow, Tao Huang, **Yuze Qiu**, Shengxin Jia, Zhiyuan Li, Guangyao Zhao, Hehua Zhang, Jingyi Zhu, Xingcan Huang, Jian Li, Yuyu Gao, Huiming Wang, Jiyu Li, Ya Huang, Dengfeng Li, Binbin Zhang, Jiachen Wang, Zhenlin Chen, Guihuan Guo, Zijian Zheng, Xinge Yu, **Science Advances 2024**
+- [Sweat-powered, skin-adhesive multimodal sensor for long-term and real-time sweat monitoring](https://onlinelibrary.wiley.com/doi/full/10.1002/bmm2.12124), Xinxin He, Zhiyuan Li, Xingcan Huang, Qiang Zhang, Yuyang Zeng, Jialin Li, Chun Ki Yiu, Yawen Yang, Jingkun Zhou, Guoqiang Xu, Jiachen Wang, Jian Li, Zitong Xu, Zhenlin Chen, Yiming Liu, Yuyu Gao, Binbin Zhang, Guangyao Zhao, Zhan Gao, Pengcheng Wu, Rui Shi, **Yuze Qiu**, Hehua Zhang, Lung Chow, Denglin Ye, Ya Huang, Xinge Yu, **BMEMat 2024**
+
 
 # 🎖 Honors and Awards
 - *2024.09* First Prize Doctoral Academic Scholarship 
