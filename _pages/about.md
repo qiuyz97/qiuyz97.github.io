@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third year joint Ph.D. student from [School of Engineering Science](https://ses.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/) and [Department of Biomedical Engineering](https://www.cityu.edu.hk/bme/), [City University of Hong Kong](https://www.cityu.edu.hk/). My major in USTC is Instrument Science and Technology (code: 0804). 
+I'm a third-year joint Ph.D. student from [School of Engineering Science](https://ses.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/) and [Department of Biomedical Engineering](https://www.cityu.edu.hk/bme/), [City University of Hong Kong](https://www.cityu.edu.hk/). My major in USTC is Instrument Science and Technology (code: 0804). 
 
-I am very fortunate to be advised by [Prof. Erbao Dong](https://faculty.ustc.edu.cn/dongerbao/en/index.htm) of BIR Lab from [School of Engineering Science](https://ses.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/) and [Prof. Xinge Yu](https://www.cityu.edu.hk/stfprofile/xingeyu.htm) of [Lab of Soft Bio-electronics](https://yu-electronics.com/) from [Department of Biomedical Engineering](https://www.cityu.edu.hk/bme/), [City University of Hong Kong](https://www.cityu.edu.hk/). 
+I am very fortunate to be advised by [Prof. Erbao Dong](https://faculty.ustc.edu.cn/dongerbao/en/index.htm) of BIR Lab and [Prof. Xinge Yu](https://www.cityu.edu.hk/stfprofile/xingeyu.htm) of [Lab of Soft Bio-electronics](https://yu-electronics.com/). 
 
 My research interests include Vision-based Tactile Sensor, Flexible Electronics, and Soft Robotics. I have published 7 papers <a href="https://scholar.google.com/citations?user=O1vIXuEAAAAJ"> with total <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'>google scholar citations <strong><span id='total_cit'>12</span></strong></a> in the SCI journals.
 
-You can find my CV here: [QIU Yuze's Curriculum Vitae](../assets/CV_QYZ_2025_03.pdf).
+You can find my [CV](../assets/CV_QYZ_2025_03.pdf) here.
 
 <!--<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fqiuyz97%2Fqiuyz97.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&amp;&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> in the SCI journals.
 <!--<img src="https://img.shields.io/endpoint?logo=Google%20Scholar&amp;url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations" /></a> in the SCI journals. -->
