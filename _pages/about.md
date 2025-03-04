@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a third-year joint Ph.D. student from [School of Engineering Science](https://ses.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/) and [Department of Biomedical Engineering](https://www.cityu.edu.hk/bme/), [City University of Hong Kong](https://www.cityu.edu.hk/). My major in USTC is Instrument Science and Technology (code: 0804). 
+I'm now a third-year joint Ph.D. student from [School of Engineering Science](https://ses.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://www.ustc.edu.cn/) (中国科大工程科学学院) and [Department of Biomedical Engineering](https://www.cityu.edu.hk/bme/), [City University of Hong Kong](https://www.cityu.edu.hk/) (香港城市大学生物医学工程系). My major in USTC is Instrument Science and Technology (code: 0804). 
 
-I am very fortunate to be advised by [Prof. Erbao Dong](https://faculty.ustc.edu.cn/dongerbao/en/index.htm) of BIR Lab and [Prof. Xinge Yu](https://www.cityu.edu.hk/stfprofile/xingeyu.htm) of [Lab of Soft Bio-electronics](https://yu-electronics.com/). 
+I am very fortunate to be advised by [Prof. Erbao Dong (董二宝)](https://faculty.ustc.edu.cn/dongerbao/en/index.htm) of BIR Lab and [Prof. Xinge Yu (于欣格)](https://www.cityu.edu.hk/stfprofile/xingeyu.htm) of [Lab of Soft Bio-electronics](https://yu-electronics.com/). 
 
 My research interests include Vision-based Tactile Sensor, Flexible Electronics, and Soft Robotics. I have published 7 papers <a href="https://scholar.google.com/citations?user=O1vIXuEAAAAJ"> with total <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'>google scholar citations <strong><span id='total_cit'>12</span></strong></a> in the SCI journals.
 
