@@ -18,8 +18,8 @@ main:
  - title: "CV"
     url: "/#-CV"
 
-   - title: "Guide"
-    url: "/#-markdown"
+#   - title: "Guide"
+#    url: "/#-markdown"
 
  # - title: "Invited Talks"
 #    url: "/#-invited-talks"
