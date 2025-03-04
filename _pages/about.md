@@ -22,14 +22,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interests include Vision-based Tactile Sensor, Flexible Electronics, and Soft Robotics. I have published 7 papers in the SCI journals with total <a href='https://scholar.google.com/citations?user=O1vIXuEAAAAJ'>google scholar citations <strong><span id='total_cit'>12</span></strong></a>.
 
 # 💬 Present researches
-- Passive Young's Modulus Measurement (January 2024 to Present)
-  - Developed a compact piezoelectric airbag structure that converts Young's modulus of the test object into distinct and highly distinguishable electrical outputs from piezoelectric ceramics.
-  - Designed a display based on electrochromism that visualizes Young's modulus of the test object without the need for external energy input.
-    
 - Wearable Passive Pulse Rate Visualization Based on Structural Color (December 2023 to Present)
   - Designed a wearable flexible grating wristband sensitive to minute vibrations using structural color principles. This allows for the visualization of the wearer's heart rate and relative pulse strength based on changes in the structural color on the wristband's surface.
   - Developed a mobile application that enables users to capture changes in structural color on the wristband via a smartphone, providing them with rapid access to cardiovascular indicators such as pulse rate and blood pressure predictions.
-    
+
+- Passive Young's Modulus Measurement (January 2024 to Present)
+  - Developed a compact piezoelectric airbag structure that converts Young's modulus of the test object into distinct and highly distinguishable electrical outputs from piezoelectric ceramics.
+  - Designed a display based on electrochromism that visualizes Young's modulus of the test object without the need for external energy input.
+
 - Compact High-Performance Visuo-Tactile Sensor with Unique Structural Color Array Patterns (December 2024 to Present)
   - Introduced a new sensor illumination method (multi-point annular lighting) to achieve unique structural color array patterns with high visual indicativeness, along with a more compact sensor design (30 × 30 × 30 mm³).
   - Utilized a global feature perception network with a self-attention module to more effectively capture and model high-dimensional tactile information from complex tactile images (structural color array patterns).
@@ -83,10 +83,10 @@ My research interests include Vision-based Tactile Sensor, Flexible Electronics,
 </div>
 
 - As Co-author
-  - [Multi-functional adhesive hydrogel as bio-interface for wireless transient pacemaker](https://www.sciencedirect.com/science/article/pii/S095656632400602X), Qiang Zhang, Guangyao Zhao, Zhiyuan Li, Fang Guo, Ya Huang, Guihuan Guo, Jiachen Wang, Jingkun Zhou, Lung Chow, Xingcan Huang, Xinxin He, Yuyu Gao, Zhan Gao, Kuanming Yao, **Yuze Qiu**, Zirui Zhao, Binbin Zhang, Yawen Yang, Yingjian Liu, Yue Hu, Mengge Wu, Jian Li, Pengcheng Wu, Guoqiang Xu, Pinyuan He, Zhihui Yang, Xinge Yu, **Biosensors and Bioelectronics 2024**
   - [A fully integrated breathable haptic textile](https://www.science.org/doi/full/10.1126/sciadv.adq9575), Kuanming Yao, Qiuna Zhuang, Qiang Zhang, Jingkun Zhou, Chun Ki Yiu, Jianpeng Zhang, Denglin Ye, Yawen Yang, Ki Wan Wong, Lung Chow, Tao Huang, **Yuze Qiu**, Shengxin Jia, Zhiyuan Li, Guangyao Zhao, Hehua Zhang, Jingyi Zhu, Xingcan Huang, Jian Li, Yuyu Gao, Huiming Wang, Jiyu Li, Ya Huang, Dengfeng Li, Binbin Zhang, Jiachen Wang, Zhenlin Chen, Guihuan Guo, Zijian Zheng, Xinge Yu, **Science Advances 2024**
-  - [Advances in smart textiles for personal thermal management](https://link.springer.com/article/10.1007/s44258-025-00050-w), Weibin Zhu, Lung Chow, Denglin Ye, **Yuze Qiu**, Jiyu Li, Binbin Zhang, Yuan Guo, Shengxin Jia, and Xinge Yu, **Med-X 2025**
+  - [Multi-functional adhesive hydrogel as bio-interface for wireless transient pacemaker](https://www.sciencedirect.com/science/article/pii/S095656632400602X), Qiang Zhang, Guangyao Zhao, Zhiyuan Li, Fang Guo, Ya Huang, Guihuan Guo, Jiachen Wang, Jingkun Zhou, Lung Chow, Xingcan Huang, Xinxin He, Yuyu Gao, Zhan Gao, Kuanming Yao, **Yuze Qiu**, Zirui Zhao, Binbin Zhang, Yawen Yang, Yingjian Liu, Yue Hu, Mengge Wu, Jian Li, Pengcheng Wu, Guoqiang Xu, Pinyuan He, Zhihui Yang, Xinge Yu, **Biosensors and Bioelectronics 2024**
   - [Sweat-powered, skin-adhesive multimodal sensor for long-term and real-time sweat monitoring](https://onlinelibrary.wiley.com/doi/full/10.1002/bmm2.12124), Xinxin He, Zhiyuan Li, Xingcan Huang, Qiang Zhang, Yuyang Zeng, Jialin Li, Chun Ki Yiu, Yawen Yang, Jingkun Zhou, Guoqiang Xu, Jiachen Wang, Jian Li, Zitong Xu, Zhenlin Chen, Yiming Liu, Yuyu Gao, Binbin Zhang, Guangyao Zhao, Zhan Gao, Pengcheng Wu, Rui Shi, **Yuze Qiu**, Hehua Zhang, Lung Chow, Denglin Ye, Ya Huang, Xinge Yu, **BMEMat 2024**
+  - [Advances in smart textiles for personal thermal management](https://link.springer.com/article/10.1007/s44258-025-00050-w), Weibin Zhu, Lung Chow, Denglin Ye, **Yuze Qiu**, Jiyu Li, Binbin Zhang, Yuan Guo, Shengxin Jia, and Xinge Yu, **Med-X 2025**
 
 
 # 🎖 Honors and Awards
