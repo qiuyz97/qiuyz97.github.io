@@ -21,7 +21,7 @@ I'm now a third-year joint Ph.D. student from [School of Engineering Science](ht
 
 I am very fortunate to be advised by [Prof. Erbao Dong (董二宝)](https://faculty.ustc.edu.cn/dongerbao/en/index.htm) of BIR Lab and [Prof. Xinge Yu (于欣格)](https://www.cityu.edu.hk/stfprofile/xingeyu.htm) of [Lab of Soft Bio-electronics](https://yu-electronics.com/). 
 
-My research interests include Robotics (for example, Soft Robotics), Tactile Sensors (especially Vision-based tactile sensors), and Flexible Electronics. 
+My research interests include *Robotics* (for example, Soft Robotics), *Tactile Sensors* (especially Vision-based tactile sensors), and *Flexible Electronics*. 
 
 Throughout my ten years of academic journey, the word “robotics” has always been a central theme. To better understand and explore the Robotics field, To better understand and explore the field of robotics, I participated in several competitions and engineering programs related to robotics and vision technologies during my undergraduate and master’s studies, achieving notable results in each. 
 
