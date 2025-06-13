@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "QIU Yuze (邱宇泽)"
 title_seperator          : "-"
 name                     : &name "QIU Yuze"
-description              : "Joint Ph.D. student in USTC and CityU. Focusing on tactile sensors, flexible electronics, and soft robotics."
+description              : "Joint Ph.D. student in USTC and CityU. Focusing on robotics, tactile sensors, and flexible electronics."
 #url                      : https://qiuyz97.github.io
 repository               : "qiuyz97/qiuyz97e.github.io"
 google_scholar_stats_use_cdn : true
@@ -27,7 +27,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "QIU Yuze"
   avatar           : "images/qyz.jpg"
-  bio              : "USTC and CityU"
+  bio              : "USTC & CityU"
   location         : "Hefei/Hong Kong, China"
   employer         :
   pubmed           : 
