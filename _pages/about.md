@@ -41,28 +41,33 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Introduced a new sensor illumination method (multi-point annular lighting) to achieve unique structural color array patterns with high visual indicativeness, along with a more compact sensor design (30 × 30 × 30 mm³).
   - Utilized a global feature perception network with a self-attention module to more effectively capture and model high-dimensional tactile information from complex tactile images (structural color array patterns).
   - The proposed miniaturized sensor demonstrated good static tactile estimation performance (single-point contact force localization and identification) and is highly suitable for manipulating objects within mechanical grippers.
+
 ![IrisClaw](/assets/IrisClawrn.jpg "IrisClaw")
 
 - High-Performance Fingertip Vision-based Tactile Sensor based on Biomimetic  Structural Colors (December 2024 to Present)
   - Addressed the adaptation and performance enhancement of vision-based tactile sensors with structural colors for dexterous robotic fingertips.
   - Redesigned the optical architecture of the sensor, established a composite-feature structural color dataset, and utilized a ResNet network to evaluate tactile information.
   - The proposed fingertip sensor demonstrates excellent tactile performance and enables dexterous hands to grasp various soft and fragile objects.
+
 ![IrisTip](/assets/IrisTip.jpg "IrisTip")
 
 - Intelligent Skin Humidity Management (Mar. 2025 – Present)
   - Addressed the challenges of maintaining and intelligently managing human skin humidity in various environments.
   - Developed differentiated hydrophilic fabrics and constructed a directional sweat transport layer to enable controllable and rapid sweat wicking.
   - Designed an airbag array–water supply structural layer to regulate skin perspiration and hydration, and integrated flexible circuits for wireless charging and system control.
+
 ![Sweat_Guidance](/assets/Sweat_Guidance.jpg "Sweat_Guidance")
 
 - Wearable Passive Pulse Rate Visualization Based on Structural Color (December 2023 to Present)
   - Designed a wearable flexible grating wristband sensitive to minute vibrations using structural color principles. This allows for the visualization of the wearer's heart rate and relative pulse strength based on changes in the structural color on the wristband's surface.
   - Developed a mobile application that enables users to capture changes in structural color on the wristband via a smartphone, providing them with rapid access to cardiovascular indicators such as pulse rate and blood pressure predictions.
+
 ![Flexible_Grating_Wristband](/assets/Flexible_Grating_Wristband.jpg "Flexible_Grating_Wristband")
 
 - Passive Young's Modulus Measurement (January 2024 to Present)
   - Developed a compact piezoelectric airbag structure that converts Young's modulus of the test object into distinct and highly distinguishable electrical outputs from piezoelectric ceramics.
   - Designed a display based on electrochromism that visualizes Young's modulus of the test object without the need for external energy input.
+
 ![Passive_Youngs_Modulus_Measurement](/assets/Passive_Youngs_Modulus_Measurement.jpg "Passive_Youngs_Modulus_Measurement")
 
 # 🔥 News
