@@ -80,7 +80,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   <img src="/assets/Passive_Youngs_Modulus_Measurement.jpg" alt="Passive_Youngs_Modulus_Measurement">
 </p>
 
-# ⚙️ Engineering and Competitions
+# ⚙️ Engineering
 - Compact High-Performance Vision-based Tactile Sensor with Unique Structural Color Array Patterns (October 2024 to Present)
   - Introduced a new sensor illumination method (multi-point annular lighting) to achieve unique structural color array patterns with high visual indicativeness, along with a more compact sensor design (30 × 30 × 30 mm³).
   - Utilized a global feature perception network with a self-attention module to more effectively capture and model high-dimensional tactile information from complex tactile images (structural color array patterns).
