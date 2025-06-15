@@ -51,7 +51,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Redesigned the optical architecture of the sensor, established a composite-feature structural color dataset, and utilized a ResNet network to evaluate tactile information.
   - The proposed fingertip sensor demonstrates excellent tactile performance and enables dexterous hands to grasp various soft and fragile objects.
 
-![IrisTip](/assets/IrisTip.jpg "IrisTip")
+![IrisTip](/assets/IrisTip.jpg "IrisTip"){: .center}
 
 - Intelligent Skin Humidity Management (Mar. 2025 – Present)
   - Addressed the challenges of maintaining and intelligently managing human skin humidity in various environments.
