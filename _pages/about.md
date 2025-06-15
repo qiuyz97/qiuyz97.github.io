@@ -42,9 +42,9 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Utilized a global feature perception network with a self-attention module to more effectively capture and model high-dimensional tactile information from complex tactile images (structural color array patterns).
   - The proposed miniaturized sensor demonstrated good static tactile estimation performance (single-point contact force localization and identification) and is highly suitable for manipulating objects within mechanical grippers.
 
-<div align="center">
-![IrisClaw](/assets/IrisClawrn.jpg "IrisClaw")
-</div>
+
+![IrisClaw](/assets/IrisClawrn.jpg "IrisClaw"#pic_center)
+
 - High-Performance Fingertip Vision-based Tactile Sensor based on Biomimetic  Structural Colors (December 2024 to Present)
   - Addressed the adaptation and performance enhancement of vision-based tactile sensors with structural colors for dexterous robotic fingertips.
   - Redesigned the optical architecture of the sensor, established a composite-feature structural color dataset, and utilized a ResNet network to evaluate tactile information.
