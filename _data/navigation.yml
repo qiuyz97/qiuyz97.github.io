@@ -3,6 +3,12 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Present Research"
+    url: "/#-present-research"
+
+  - title: "Engineering Projects / Competitions"
+    url: "/#-engineering-projects-competitions"
+
   - title: "News"
     url: "/#-news"
 
