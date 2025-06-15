@@ -7,7 +7,7 @@ main:
     url: "/#-present-research"
 
   - title: "Engineering"
-    url: "/#-engineering"
+    url: "/about#engineering"
 
   - title: "News"
     url: "/#-news"
