@@ -106,7 +106,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Awarded the Second Prize at the provincial level.
 
 <p align="center">
-  <img src="/assets/Engineering3.jpg" alt="Engineering3" width="500x">
+  <img src="/assets/Engineering3.jpg" alt="Engineering3" width="550x">
 </p>
 
  - **18th USTC RoBoGame** (2018.05–2018.10)   
@@ -116,7 +116,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Awarded the Second Prize at the university level.
 
 <p align="center">
-  <img src="/assets/Engineering4.jpg" alt="Engineering4" width="500x">
+  <img src="/assets/Engineering4.jpg" alt="Engineering4" width="300x">
 </p>
 
 # 🔥 News
