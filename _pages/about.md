@@ -87,7 +87,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - The proposed miniaturized sensor demonstrated good static tactile estimation performance (single-point contact force localization and identification) and is highly suitable for manipulating objects within mechanical grippers.
 
 <p align="center">
-  <img src="/assets/IrisClawrn.jpg" alt="IrisClaw">
+  <img src="/assets/Engineering1.jpg" alt="Engineering1">
 </p>
 
 # 🔥 News
