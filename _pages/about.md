@@ -43,7 +43,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - The proposed miniaturized sensor demonstrated good static tactile estimation performance (single-point contact force localization and identification) and is highly suitable for manipulating objects within mechanical grippers.
 
 <p align="center">
-  <img src="/assets/IrisArray.jpg" alt="IrisArray" width="200x">
+  <img src="/assets/IrisArray.jpg" alt="IrisArray" width="400x">
 </p>
 
 - **High-Performance Fingertip Vision-based Tactile Sensor based on Biomimetic  Structural Colors** (December 2024 to Present)
@@ -52,7 +52,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - The proposed fingertip sensor demonstrates excellent tactile performance and enables dexterous hands to grasp various soft and fragile objects.
 
 <p align="center">
-  <img src="/assets/IrisTip.jpg" alt="IrisTip" width="200x">
+  <img src="/assets/IrisTip.jpg" alt="IrisTip" width="400x">
 </p>
 
 - **Intelligent Skin Humidity Management** (Mar. 2025 – Present)
@@ -61,7 +61,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Designed an airbag array–water supply structural layer to regulate skin perspiration and hydration, and integrated flexible circuits for wireless charging and system control.
 
 <p align="center">
-  <img src="/assets/Sweat_Guidance.jpg" alt="Sweat_Guidance" width="200x">
+  <img src="/assets/Sweat_Guidance.jpg" alt="Sweat_Guidance" width="400x">
 </p>
 
 - **Wearable Passive Pulse Rate Visualization Based on Structural Color** (December 2023 to Present)
@@ -69,7 +69,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Developed a mobile application that enables users to capture changes in structural color on the wristband via a smartphone, providing them with rapid access to cardiovascular indicators such as pulse rate and blood pressure predictions.
 
 <p align="center">
-  <img src="/assets/Flexible_Grating_Wristband.jpg" alt="Flexible_Grating_Wristband" width="200x">
+  <img src="/assets/Flexible_Grating_Wristband.jpg" alt="Flexible_Grating_Wristband" width="400x">
 </p>
 
 <!--- Passive Young's Modulus Measurement (January 2024 to Present)
@@ -82,25 +82,28 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
 
 # 💬 Engineering and Competitions
 - **National Key R&D Program of China - Key Project on "Intelligent Robots"** (2021.06–2023.05)
-  Subproject 3: Research on Live Working Robot Technology for Power Distribution Networks (Project No. 2018YFB1307400)   As Core Member
+  
+  Subproject 3: Research on Live Working Robot Technology for Power Distribution Networks (Project No. 2018YFB1307400),  as **Core Member**
   - Participated in and was responsible for the improved design of the vision system for a dual-arm live working robot for power distribution networks. Successfully addressed the challenge of automatic and rapid correction and compensation of robotic vision images under uneven outdoor strong lighting conditions, significantly improving the target recognition success rate of the distribution network operation robot in outdoor backlight environments. The project outcomes passed the acceptance evaluation by the National Key R&D Program project team, and relevant results have been published in SCI journals.
   - Completed the design of a dual-degree-of-freedom intelligent vision pan-tilt unit, enabling fast and stable tracking of the operator's viewpoint.
 
 <p align="center">
-  <img src="/assets/Engineering1.jpg" alt="Engineering1" width="200x">
+  <img src="/assets/Engineering1.jpg" alt="Engineering1" width="400x">
 </p>
 
  - **USTC–McMaster University Summer Research Internship Program** (2019.07–2019.08)
-  Architectural Design and Prototype Development of a Reception Robot    As Team Leader
+   
+  Architectural Design and Prototype Development of a Reception Robot,   as **Team Leader**
   - Implemented visitor face recognition based on OpenCV and Raspberry Pi, and designed a human-computer interaction program for confirming visitors’ destination locations.
   - Established reliable communication between the Raspberry Pi (host controller) and Arduino (slave controller), enabling the prototype robot to navigate to target locations and perform basic obstacle avoidance.
 
 <p align="center">
-  <img src="/assets/Engineering1.jpg" alt="Engineering1" width="200x">
+  <img src="/assets/Engineering1.jpg" alt="Engineering1" width="400x">
 </p>
 
  - **National Undergraduate Engineering Training Integration Ability Competition (Anhui Division)** (2018.12–2019.04)
-  "Intelligent Material Handling Robot Competition" – Robot Racing Project      As Team Leader
+   
+  "Intelligent Material Handling Robot Competition" – Robot Racing Project, as **Team Leader**
   - Independently designed and developed an intelligent logistics robot capable of executing material handling tasks. The robot autonomously identified randomly assigned task codes on-site and efficiently transported materials of different colors and shapes to the center of the corresponding color-coded task areas with high speed and precision.
   - Awarded the Second Prize at the provincial level.
 
@@ -109,7 +112,8 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
 </p>
 
  - **18th USTC RoBoGame** (2018.05–2018.10)
-  "Climbing Challenge" Robot Racing Project      As Team Leader
+   
+  "Climbing Challenge" Robot Racing Project, as **Team Leader**
   - Responsible for the mechanical structure design and debugging of both the climbing robot and the transport robot.
   - Achieved rapid identification and grasping of target objects within the field, as well as precise placement of objects at the top of flagpoles.
   - Awarded the Second Prize at the university level.
