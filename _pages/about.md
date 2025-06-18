@@ -43,7 +43,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - The proposed miniaturized sensor demonstrated good static tactile estimation performance (single-point contact force localization and identification) and is highly suitable for manipulating objects within mechanical grippers.
 
 <p align="center">
-  <img src="/assets/IrisClawrn.jpg" alt="IrisClaw">
+  <img src="/assets/IrisArray.jpg" alt="IrisArray">
 </p>
 
 - High-Performance Fingertip Vision-based Tactile Sensor based on Biomimetic  Structural Colors (December 2024 to Present)
