@@ -43,7 +43,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - The proposed miniaturized sensor demonstrated good static tactile estimation performance (single-point contact force localization and identification) and is highly suitable for manipulating objects within mechanical grippers.
 
 <p align="center">
-  <img src="/assets/IrisArray.jpg" alt="IrisArray" width="400x">
+  <img src="/assets/IrisArray.jpg" alt="IrisArray" width="600x">
 </p>
 
 - **High-Performance Fingertip Vision-based Tactile Sensor based on Biomimetic  Structural Colors** (December 2024 to Present)
@@ -52,7 +52,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - The proposed fingertip sensor demonstrates excellent tactile performance and enables dexterous hands to grasp various soft and fragile objects.
 
 <p align="center">
-  <img src="/assets/IrisTip.jpg" alt="IrisTip" width="400x">
+  <img src="/assets/IrisTip.jpg" alt="IrisTip" width="600x">
 </p>
 
 - **Intelligent Skin Humidity Management** (Mar. 2025 – Present)
@@ -61,7 +61,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Designed an airbag array–water supply structural layer to regulate skin perspiration and hydration, and integrated flexible circuits for wireless charging and system control.
 
 <p align="center">
-  <img src="/assets/Sweat_Guidance.jpg" alt="Sweat_Guidance" width="400x">
+  <img src="/assets/Sweat_Guidance.jpg" alt="Sweat_Guidance" width="600x">
 </p>
 
 - **Wearable Passive Pulse Rate Visualization Based on Structural Color** (December 2023 to Present)
@@ -69,7 +69,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Developed a mobile application that enables users to capture changes in structural color on the wristband via a smartphone, providing them with rapid access to cardiovascular indicators such as pulse rate and blood pressure predictions.
 
 <p align="center">
-  <img src="/assets/Flexible_Grating_Wristband.jpg" alt="Flexible_Grating_Wristband" width="400x">
+  <img src="/assets/Flexible_Grating_Wristband.jpg" alt="Flexible_Grating_Wristband" width="600x">
 </p>
 
 <!--- Passive Young's Modulus Measurement (January 2024 to Present)
@@ -91,9 +91,8 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   <img src="/assets/Engineering1.jpg" alt="Engineering1" width="400x">
 </p>
 
- - **USTC–McMaster University Summer Research Internship Program** (2019.07–2019.08)
-   
-  Architectural Design and Prototype Development of a Reception Robot,   as **Team Leader**
+ - **USTC–McMaster University Summer Research Internship Program** (2019.07–2019.08)  
+   Architectural Design and Prototype Development of a Reception Robot,   as **Team Leader**
   - Implemented visitor face recognition based on OpenCV and Raspberry Pi, and designed a human-computer interaction program for confirming visitors’ destination locations.
   - Established reliable communication between the Raspberry Pi (host controller) and Arduino (slave controller), enabling the prototype robot to navigate to target locations and perform basic obstacle avoidance.
 
@@ -101,7 +100,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   <img src="/assets/Engineering1.jpg" alt="Engineering1" width="400x">
 </p>
 
- - **National Undergraduate Engineering Training Integration Ability Competition (Anhui Division)** (2018.12–2019.04)
+ - **National Undergraduate Engineering Training Integration Ability Competition (Anhui Division)** (2018.12–2019.04)  
    
   "Intelligent Material Handling Robot Competition" – Robot Racing Project, as **Team Leader**
   - Independently designed and developed an intelligent logistics robot capable of executing material handling tasks. The robot autonomously identified randomly assigned task codes on-site and efficiently transported materials of different colors and shapes to the center of the corresponding color-coded task areas with high speed and precision.
@@ -111,7 +110,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   <img src="/assets/Engineering1.jpg" alt="Engineering1" width="200x">
 </p>
 
- - **18th USTC RoBoGame** (2018.05–2018.10)
+ - **18th USTC RoBoGame** (2018.05–2018.10)  
    
   "Climbing Challenge" Robot Racing Project, as **Team Leader**
   - Responsible for the mechanical structure design and debugging of both the climbing robot and the transport robot.
