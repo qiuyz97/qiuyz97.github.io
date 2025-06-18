@@ -100,8 +100,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   <img src="/assets/Engineering1.jpg" alt="Engineering1" width="400x">
 </p>
 
- - **National Undergraduate Engineering Training Integration Ability Competition (Anhui Division)** (2018.12–2019.04)    
-   
+ - **National Undergraduate Engineering Training Integration Ability Competition (Anhui Division)** (2018.12–2019.04)   
   "Intelligent Material Handling Robot Competition" – Robot Racing Project, as **Team Leader**
   - Independently designed and developed an intelligent logistics robot capable of executing material handling tasks. The robot autonomously identified randomly assigned task codes on-site and efficiently transported materials of different colors and shapes to the center of the corresponding color-coded task areas with high speed and precision.
   - Awarded the Second Prize at the provincial level.
@@ -110,8 +109,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   <img src="/assets/Engineering1.jpg" alt="Engineering1" width="200x">
 </p>
 
- - **18th USTC RoBoGame** (2018.05–2018.10)    
-   
+ - **18th USTC RoBoGame** (2018.05–2018.10)   
   "Climbing Challenge" Robot Racing Project, as **Team Leader**
   - Responsible for the mechanical structure design and debugging of both the climbing robot and the transport robot.
   - Achieved rapid identification and grasping of target objects within the field, as well as precise placement of objects at the top of flagpoles.
