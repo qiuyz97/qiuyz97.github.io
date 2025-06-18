@@ -72,16 +72,15 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   <img src="/assets/Flexible_Grating_Wristband.jpg" alt="Flexible_Grating_Wristband">
 </p>
 
-- Passive Young's Modulus Measurement (January 2024 to Present)
+<!--- Passive Young's Modulus Measurement (January 2024 to Present)
   - Developed a compact piezoelectric airbag structure that converts Young's modulus of the test object into distinct and highly distinguishable electrical outputs from piezoelectric ceramics.
   - Designed a display based on electrochromism that visualizes Young's modulus of the test object without the need for external energy input.
 
 <p align="center">
   <img src="/assets/Passive_Youngs_Modulus_Measurement.jpg" alt="Passive_Youngs_Modulus_Measurement">
-</p>
+</p> -->
 
-<span class='anchor' id='Engineering'></span>
-# 💬 Present research2
+# 💬 Engineering
 - Compact High-Performance Vision-based Tactile Sensor with Unique Structural Color Array Patterns (October 2024 to Present)
   - Introduced a new sensor illumination method (multi-point annular lighting) to achieve unique structural color array patterns with high visual indicativeness, along with a more compact sensor design (30 × 30 × 30 mm³).
   - Utilized a global feature perception network with a self-attention module to more effectively capture and model high-dimensional tactile information from complex tactile images (structural color array patterns).
