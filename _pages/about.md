@@ -88,7 +88,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Completed the design of a dual-degree-of-freedom intelligent vision pan-tilt unit, enabling fast and stable tracking of the operator's viewpoint.
 
 <p align="center">
-  <img src="/assets/Engineering1.jpg" alt="Engineering1" width="400x">
+  <img src="/assets/Engineering1.jpg" alt="Engineering1" width="500x">
 </p>
 
  - **USTC–McMaster University Summer Research Internship Program** (2019.07–2019.08)  
@@ -97,7 +97,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Established reliable communication between the Raspberry Pi (host controller) and Arduino (slave controller), enabling the prototype robot to navigate to target locations and perform basic obstacle avoidance.
 
 <p align="center">
-  <img src="/assets/Engineering1.jpg" alt="Engineering1" width="400x">
+  <img src="/assets/Engineering2.jpg" alt="Engineering2" width="500x">
 </p>
 
  - **National Undergraduate Engineering Training Integration Ability Competition (Anhui Division)** (2018.12–2019.04)   
@@ -106,7 +106,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Awarded the Second Prize at the provincial level.
 
 <p align="center">
-  <img src="/assets/Engineering1.jpg" alt="Engineering1" width="200x">
+  <img src="/assets/Engineering3.jpg" alt="Engineering3" width="500x">
 </p>
 
  - **18th USTC RoBoGame** (2018.05–2018.10)   
@@ -116,7 +116,7 @@ You can find my [CV](../assets/CV_Yuze_Qiu.pdf) here.
   - Awarded the Second Prize at the university level.
 
 <p align="center">
-  <img src="/assets/Engineering1.jpg" alt="Engineering1" width="200x">
+  <img src="/assets/Engineering4.jpg" alt="Engineering4" width="500x">
 </p>
 
 # 🔥 News
